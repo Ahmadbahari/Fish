@@ -1,0 +1,173 @@
+@media (max-width:1350px) {
+ 
+    .nav-bar-left-text ,  .nav-bar-left-icon{
+        font-size: 1.1rem;
+    }
+    body , .carousel-item-text>p{
+        font-size: 0.8rem;
+    }
+    .container-second-data {
+        width: 70rem;
+    }
+    .portfolio-gallery .item img{
+        height: 20rem;
+    }   
+}
+
+
+
+
+@media (max-width:1270px) {
+ 
+    .nav-bar-left-text , .nav-bar-left-icon{
+        font-size: 1rem;
+    } 
+    body , .carousel-item-text>p{
+        font-size: 0.7rem;
+    }
+    .container-second-data {
+        width: 68rem;
+    }
+    .portfolio-gallery .item img{
+        height: 18rem;
+    }
+    .nav-bar-main-search-box input{
+        padding: 8px;
+    }
+    .nav-bar-main-search-box input:focus ,
+    .nav-bar-main-search-box input:not(:placeholder-shown){
+    width: 120px;
+    }  
+}
+
+
+@media (max-width:1210px) {
+    .fourth-content-second-footer>div::before{
+        height: 14rem;
+    }
+    .fourth-content-second-footer p , .contact-us-footer a{
+        font-size: 0.6rem;
+    }
+    .tel-footer i{
+        font-size: 1.2rem;
+    }
+    .contact-us-footer>i {
+        font-size: 0.6rem;
+    }  
+}
+
+
+
+@media (max-width:1160px) {
+
+    body , .carousel-item-text>p , .third-detail-object-content-fourth-data p{
+        font-size: 0.6rem;
+    }
+    .carousel-item-ic{
+        font-size: 3rem;
+    }
+    .container-second-data {
+        width: 64rem;
+    }
+    .portfolio-gallery .item img{
+        height: 17rem;
+    }
+    .content-fourth-data .object-content-fourth-data{
+        width: 29%;
+    }
+    .img-box-content-fourth-data{
+        height: 40%;
+    }
+    .content-fourth-data .object-content-fourth-data{
+        height: 50vh;
+    }
+    .contact-us-footer>i {
+        font-size: 0.5rem;
+        padding: 0.4rem;
+    }  
+}
+
+
+
+@media (max-width:1090px) {
+    .nav-bar-left-text ,  .nav-bar-left-icon{
+        font-size: 0.8rem;
+        padding: 0.3rem 0.6rem;
+    }
+    .nav-bar-main-search-box input{
+        padding: 6px;
+        font-size: 0.5rem;
+    }
+    .nav-bar-main-search-box input:focus ,
+    .nav-bar-main-search-box input:not(:placeholder-shown){
+        width: 100px;
+    }  
+    .nav-bar-main-search-box::after{
+        height: 8px;
+        top: 55px;
+    }
+    .brand-site img{
+        width : 111px;
+        height : 40px;
+        padding-top: 0.3rem;
+    }
+    .footer-logo img{
+        width: 6rem;
+    }
+    body , .carousel-item-text>p , .third-detail-object-content-fourth-data p{
+        font-size: 0.5rem;
+    }
+    .container-second-data {
+        width: 57rem;
+    }
+    .portfolio-gallery .item img{
+        height: 14rem;
+    }
+    .third-content-second-footer h3 ,
+    .second-content-second-footer h3 ,
+    .title-first-data h2 ,
+    .text-first-data p ,
+    .text-first-data span{
+        font-size: 1.1rem;
+    }
+    .third-content-second-footer img{
+        widows: 3rem;
+        height: 3rem;
+    }
+    .text-first-data{
+        font-size: .5rem;
+    }
+}
+
+@media (max-width:1000px) {
+
+    .nav-bar-left-text ,  .nav-bar-left-icon{
+        font-size: .5rem;
+    }
+    #top-header span ,  #top-header a{
+        font-size: 0.6rem;
+    }
+    .carousel-item-ic{
+        font-size: 2rem;
+    }
+    body , .carousel-item-text>p , .third-detail-object-content-fourth-data p{
+        font-size: 0.4rem;
+    }
+    .slider-first-data .item{
+        padding: 1.1rem;
+    }
+    .tab-menu-second-data ul li{
+        font-size: 0.7rem;
+    }
+
+    .container-second-data {
+        width: 50rem;
+    }
+    .portfolio-gallery .item img{
+        height: 12rem;
+    }
+    .content-fourth-data .object-content-fourth-data{
+        height: 40vh;
+    }
+
+}
